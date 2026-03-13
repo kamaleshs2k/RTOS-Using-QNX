@@ -54,6 +54,8 @@ int main(void) {
 ```
 ## Output
 
+[![Screenshot-2026-03-13-105150.png](https://i.postimg.cc/Hs1DCJLY/Screenshot-2026-03-13-105150.png)](https://postimg.cc/vDhSrZ9k)
+
 ---
 
 ## Result
