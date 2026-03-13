@@ -54,4 +54,9 @@ int main(void) {
 ```
 ## Output
 
+---
+
 ## Result
+Thus, a simple Hello World application was successfully developed, compiled, and executed on the QNX operating system using both VMware virtual machine and Raspberry Pi hardware targets.
+
+---
