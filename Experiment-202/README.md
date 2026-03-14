@@ -29,6 +29,7 @@ State 2 → State 0
 State 3 → State 0
 ```
 ![tranistion](qn.png)
+
 Each state is handled by a **separate thread**, and threads synchronize using **mutex locks and condition variables**.
 
 ---
