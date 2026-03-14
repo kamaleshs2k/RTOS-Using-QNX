@@ -29,6 +29,7 @@ State 2 → State 0
 State 3 → State 0
 ```
 [![qn.png](https://i.postimg.cc/hv5mz0FJ/qn.png)](https://postimg.cc/sG5xb7gy)
+
 Each state is handled by a **separate thread**, and threads synchronize using **mutex locks and condition variables**.
 
 ---
