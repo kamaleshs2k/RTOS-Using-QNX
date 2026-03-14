@@ -249,7 +249,7 @@ main, exiting
 ---
 
 # Output
-
+![photo](photo.png)
 ---
 
 # Result
