@@ -55,7 +55,7 @@ int main(void) {
 }
 ```
 ## Output
-<img width="1436" height="253" alt="Screenshot 2026-03-13 114447" src="https://github.com/user-attachments/assets/976fce0a-8a2c-4bef-854c-1371238db60f" />
+<img width="1441" height="911" alt="Screenshot 2026-03-13 105620" src="https://github.com/user-attachments/assets/a98f104e-aa30-4370-9aef-84252f1cdb5e" />
 
 ---
 
