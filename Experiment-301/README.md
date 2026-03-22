@@ -234,7 +234,7 @@ Server's pid: 12345, chid: 1
 Got a checksum message
 ```
 
-### Client Side
+### Server Side
 
 ```
 attempting to establish connection with server pid: 12345, chid 1
@@ -248,6 +248,11 @@ MsgSend return status: 0
 ---
 
 # Output
+### Server Side
+<img width="890" height="256" alt="image" src="https://github.com/user-attachments/assets/5f3f5211-b59c-4759-9253-d1b0e72dc281" />
+
+### Server Side
+<img width="1112" height="267" alt="image" src="https://github.com/user-attachments/assets/f76c1856-37d0-42d1-a7c4-a3dc52968ae3" />
 
 ---
 
